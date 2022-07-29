@@ -1,0 +1,12 @@
+{
+  "name": "app-dev-track",
+  "version": "1.0.0",
+  "description": "application development track",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "wd810",
+  "license": "ISC"
+}
